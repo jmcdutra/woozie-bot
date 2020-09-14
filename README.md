@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dutraxyz/woozie-bot?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dutraxyz/woozie-bot">
   
   <a href="https://github.com/dutraxyz/woozie-bot/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dutraxyz/woozie-bot">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
