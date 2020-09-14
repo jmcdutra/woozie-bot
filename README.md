@@ -62,5 +62,6 @@ Woozie - É um bot desenvolvido em [JavaScript](https://pt.wikipedia.org/wiki/Ja
     - sistemas de regras, denúncias, sugestões (+)
     - sistemas conectados diretamente ao servidor de MTA (em breve
 ---
+### Comandos do bot
 
-README INCOMPLETO..
+[...]README INCOMPLETO
